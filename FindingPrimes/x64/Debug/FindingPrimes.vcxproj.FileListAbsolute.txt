@@ -1,0 +1,1 @@
+E:\Kod\C++\FindingPrimes\x64\Debug\FindingPrimes.exe

@@ -1,0 +1,1 @@
+E:\Kod\C++\PrimeFactorization\x64\Debug\PrimeFactorization.exe

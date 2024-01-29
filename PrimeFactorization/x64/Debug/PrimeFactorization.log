@@ -1,0 +1,7 @@
+﻿  PrimeFactorization.cpp
+E:\Kod\C++\PrimeFactorization\PrimeFactorization.cpp(49,29): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
+E:\Kod\C++\PrimeFactorization\PrimeFactorization.cpp(49,29): warning C4244:         with
+E:\Kod\C++\PrimeFactorization\PrimeFactorization.cpp(49,29): warning C4244:         [
+E:\Kod\C++\PrimeFactorization\PrimeFactorization.cpp(49,29): warning C4244:             _Ty=int
+E:\Kod\C++\PrimeFactorization\PrimeFactorization.cpp(49,29): warning C4244:         ]
+  PrimeFactorization.vcxproj -> E:\Kod\C++\PrimeFactorization\x64\Debug\PrimeFactorization.exe
