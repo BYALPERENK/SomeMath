@@ -1,0 +1,45 @@
+C:\VisualStudio2022Codes\TwinPrime\bin\Debug\net6.0\TwinPrime.exe
+C:\VisualStudio2022Codes\TwinPrime\bin\Debug\net6.0\TwinPrime.deps.json
+C:\VisualStudio2022Codes\TwinPrime\bin\Debug\net6.0\TwinPrime.runtimeconfig.json
+C:\VisualStudio2022Codes\TwinPrime\bin\Debug\net6.0\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\bin\Debug\net6.0\TwinPrime.pdb
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.csproj.AssemblyReference.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfoInputs.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfo.cs
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\refint\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.pdb
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\TwinPrime.genruntimeconfig.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Debug\net6.0\ref\TwinPrime.dll
+E:\temp im\TwinPrime\TwinPrime\bin\Debug\net6.0\TwinPrime.exe
+E:\temp im\TwinPrime\TwinPrime\bin\Debug\net6.0\TwinPrime.deps.json
+E:\temp im\TwinPrime\TwinPrime\bin\Debug\net6.0\TwinPrime.runtimeconfig.json
+E:\temp im\TwinPrime\TwinPrime\bin\Debug\net6.0\TwinPrime.dll
+E:\temp im\TwinPrime\TwinPrime\bin\Debug\net6.0\TwinPrime.pdb
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfoInputs.cache
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfo.cs
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.csproj.CoreCompileInputs.cache
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.sourcelink.json
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.dll
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\refint\TwinPrime.dll
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.pdb
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\TwinPrime.genruntimeconfig.cache
+E:\temp im\TwinPrime\TwinPrime\obj\Debug\net6.0\ref\TwinPrime.dll
+E:\GitRepo\SomeMath\TwinPrime\bin\Debug\net6.0\TwinPrime.exe
+E:\GitRepo\SomeMath\TwinPrime\bin\Debug\net6.0\TwinPrime.deps.json
+E:\GitRepo\SomeMath\TwinPrime\bin\Debug\net6.0\TwinPrime.runtimeconfig.json
+E:\GitRepo\SomeMath\TwinPrime\bin\Debug\net6.0\TwinPrime.dll
+E:\GitRepo\SomeMath\TwinPrime\bin\Debug\net6.0\TwinPrime.pdb
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfoInputs.cache
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.AssemblyInfo.cs
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.csproj.CoreCompileInputs.cache
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.sourcelink.json
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.dll
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\refint\TwinPrime.dll
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.pdb
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\TwinPrime.genruntimeconfig.cache
+E:\GitRepo\SomeMath\TwinPrime\obj\Debug\net6.0\ref\TwinPrime.dll

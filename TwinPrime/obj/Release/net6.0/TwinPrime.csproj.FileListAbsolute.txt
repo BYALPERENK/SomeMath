@@ -1,0 +1,15 @@
+C:\VisualStudio2022Codes\TwinPrime\bin\Release\net6.0\TwinPrime.exe
+C:\VisualStudio2022Codes\TwinPrime\bin\Release\net6.0\TwinPrime.deps.json
+C:\VisualStudio2022Codes\TwinPrime\bin\Release\net6.0\TwinPrime.runtimeconfig.json
+C:\VisualStudio2022Codes\TwinPrime\bin\Release\net6.0\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\bin\Release\net6.0\TwinPrime.pdb
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.csproj.AssemblyReference.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.AssemblyInfoInputs.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.AssemblyInfo.cs
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\refint\TwinPrime.dll
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.pdb
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\TwinPrime.genruntimeconfig.cache
+C:\VisualStudio2022Codes\TwinPrime\obj\Release\net6.0\ref\TwinPrime.dll
